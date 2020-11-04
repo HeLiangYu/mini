@@ -1,0 +1,4 @@
+<!--miniprogram/pages/add/add.wxml-->
+<view>
+  <button type="primary" bindtap="open">打开</button>
+</view>
